@@ -122,7 +122,7 @@ const Navbar: React.FC = () => {
   const navItems = [
     { path: '/', label: 'Home' },
     { path: '/gallery', label: 'Gallery' },
-    { path: '/timeline', label: 'Timeline' },
+    // { path: '/timeline', label: 'Timeline' },
     { path: '/quiz', label: 'Quiz' },
     { path: '/wordle', label: 'Wordle' },
   ];
