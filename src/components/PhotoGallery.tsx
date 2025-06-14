@@ -58,12 +58,12 @@ const photos = [
   {
     id: 11,
     url: '/images2/11.jpeg',
-    caption: 'Phas gya badmosh'
+    caption: 'Phas gya badmosh Doggo'
   },
   {
     id: 12,
     url: '/images2/12.jpeg',
-    caption: 'Which one is the Kid?'
+    caption: 'Which one is the Kid Doggo?'
   },
   {
     id: 13,
